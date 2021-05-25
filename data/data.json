@@ -1,0 +1,5 @@
+[{"id": 1, "nombre": "Nombre1", "especialidad": "Cardiología", "foto": "https://estudiaenrusia.com/wp-content/uploads/2020/06/cardio-1024x576.jpg"},
+{"id": 2, "nombre": "Nombre2", "especialidad": "Cirugía General", "foto": "https://dragonzalezjauregui.com/wp-content/uploads/2018/02/Recurso-9.png"},
+{"id": 3, "nombre": "Nombre3", "especialidad": "Pediatría", "foto": "https://1.bp.blogspot.com/-IlUELATkPGU/X6cNgdfC4BI/AAAAAAAAZcI/xjKBeQYFGrsrLM-8YKO3a6BfmDdJRZawQCLcBGAsYHQ/s1024/0000000000000000000000000000000000000.png"},
+{"id": 4, "nombre": "Nombre4", "especialidad": "Psiquiatría", "foto":"https://psiquiatria.com/galeria/neuropsiquiatria.jpg"},
+{"id": 5, "nombre": "Nombre5", "especialidad": "Medicina Interna", "foto":"https://www.hospitalvelmar.com/images/750x565_10.jpg"}]

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/styles.css">
+    
+    <title>Sano Cuore</title>
+</head>
+<body>
+    <header>
+        <div>
+            <img id="sol" src="../images/dom.png" alt="">
+            <img id="nocturno" src="../images/luna (1).png" alt="">
+        </div>
+        <h1>Hospital Cardiológico</h1>
+        <h2>Cuidá tu corazón</h2>
+     
+        <nav class="navigation">
+            <ul class="navigationList">
+                <li><a href="../index.html">HOME</a></li>
+                <li><a href="pacientes.html">Ingreso de Pacientes</a></li>
+            </ul>
+        </nav>
+        
+    </header>
+    
+    <div class="divPacientes">
+    <input type="text" id="nombre" placeholder="Nombre">
+    <input type="number" id="edad" placeholder="Edad">
+    <input type="number" id="dni" placeholder="Ingrese DNI">
+    <button id="botonPrincipal">Cargar Paciente</button>
+    </div>
+    <div id="find">
+        <input id="buscar-paciente" type="text">
+        <button id="button-find">Buscar</button>
+    </div>
+    <ul id="resultado"></ul>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script src="../js/paciente.js"></script>
+</body>
+</html>
